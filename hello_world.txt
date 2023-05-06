@@ -1,2 +1,5 @@
 This is another test.
 here's another bit of text
+line for testing git commit messages
+Another line for testing git commit messages
+Trying again to test things.
